@@ -19,6 +19,9 @@ Results on UCF101 dataset using the [evaluation script](https://people.cs.umass.
 <img src='./misc/original.gif'>
 <img src='./misc/slomo.gif'>
 
+## Pretrained model
+So far you can use the same model trained on [adobe240fps dataset by avinashpaliwal](https://drive.google.com/open?id=1IvobLDbRiBgZr3ryCRrWL8xDbMZ-KnpF).
+
 ## Prerequisites
 This codebase was developed and tested with pytorch 0.4.1 and CUDA 9.2 and Python 3.6.
 Install:
